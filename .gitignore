@@ -51,3 +51,6 @@ android/
 
 # Temporary files
 *.log
+
+# ESLint cache
+.eslintcache
