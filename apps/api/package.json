@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'API server not configured yet'",
+    "build": "echo 'API server not configured yet'",
+    "start": "echo 'API server not configured yet'"
+  },
+  "dependencies": {
+    "@repo/shared": "workspace:*"
+  }
+}

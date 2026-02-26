@@ -54,3 +54,9 @@ android/
 
 # ESLint cache
 .eslintcache
+
+# npm (using pnpm instead)
+package-lock.json
+
+# Turbo
+.turbo
